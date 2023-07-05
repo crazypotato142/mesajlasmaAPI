@@ -1,4 +1,4 @@
-# 20211129082 - Hasan Babaoğlu
+# 20211129082 - Hasan Babaoğlu - Büt
 ### Mesajlaşma Platformu Web API
 Bu repository'de eşler arası anlık özel/toplu mesaj gönderme ve anlık grup mesajlaşma özelliklerine sahip bir mesajlaşma platformu API'ı bulunmaktadır.
 
